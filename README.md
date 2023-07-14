@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/SWG64/rboxlo-test/raw/trunk/Branding/Logos/Primary/Big.png" width="60%"><br><i>Project Eclipse 🌙</i>
+<img src="https://raw.githubusercontent.com/SWG64/rboxlo-test/main/Branding/Logos/Primary/Big.png" width="60%"><br><i>Project Eclipse 🌙</i>
 <br><br>
 <a href="https://github.com/orcfoss/Rboxlo/blob/master/LICENSE">
 	<img src="https://img.shields.io/github/license/orcfoss/Rboxlo" alt="GitHub License">
