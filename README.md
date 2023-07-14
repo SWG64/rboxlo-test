@@ -13,7 +13,7 @@ Rboxlo is a **free and open-source** Roblox private server that can be used to r
 
 ## Features
 
-<img src="https://github.com/orcfoss/Rboxlo/raw/trunk/Branding/Artwork/SwordNoob.png" align="right" width="20%">
+<img src="https://raw.githubusercontent.com/SWG64/rboxlo-test/main/Branding/Artwork/SwordNoob.png" align="right" width="20%">
 
 **Fully open-source and decentralized**
 
