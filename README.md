@@ -49,7 +49,7 @@ Make Rboxlo yours by customizing every single aspect of the platform. Whether it
 - **Docker** 20.10.0+
 - **Visual Studio** 2019+
 
-The requirements are very short and sweet because Docker is used to run the entire server, and Visual Studio is used to build the client applications. Detailed instructions on how to deploy Rboxlo are available in [GUIDE.MD](https://github.com/orcfoss/Rboxlo/blob/trunk/Setup/GUIDE.md).
+The requirements are very short and sweet because Docker is used to run the entire server, and Visual Studio is used to build the client applications. Detailed instructions on how to deploy Rboxlo are available in [GUIDE.MD](https://github.com/SWG64/rboxlo-test/blob/main/Setup/GUIDE.md).
 
 ## Contributing
 
